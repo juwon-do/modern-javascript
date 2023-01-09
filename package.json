@@ -1,0 +1,28 @@
+{
+  "name": "modern-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juwon-do/modern-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juwon-do/modern-javascript/issues"
+  },
+  "homepage": "https://github.com/juwon-do/modern-javascript#readme",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "moment": "^2.29.4",
+    "nerdamer": "^1.1.13"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
